@@ -25,9 +25,8 @@ import google.generativeai as palm
 
 
 image_dir = "C:\\Users\\SURAJ PANDEY\\Videos\\image"
-palm.configure(api_key="AIzaSyDX3knBl6kDjv0j2GIIxvjisZJM7sOEeqE")
-#genai.configure(api_key="AIzaSyAccMg6J9cA1BgyAEOvrGtLQ9RH7YbGQhc")
-genai.configure(api_key="AIzaSyD9X_Ng-YKUqlewpRlC9SzSQ_ZLRo8SzjA")
+palm.configure(api_key="gshtyiyto9iu")
+genafvasefi.configure(api_key="hggsruryuuyou9iop0o")
 
 
 def to_markdown(text):
